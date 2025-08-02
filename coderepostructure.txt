@@ -1,0 +1,13 @@
+court-data-fetcher/
+├── app.py
+├── scraper.py
+├── models.py
+├── requirements.txt
+├── templates/
+│   ├── index.html
+│   ├── result.html
+├── static/
+│   └── style.css
+├── README.md
+├── db.sqlite3
+├── Dockerfile (optional)
