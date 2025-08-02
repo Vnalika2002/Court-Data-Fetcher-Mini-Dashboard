@@ -27,7 +27,7 @@ Delhi High Court — https://delhihighcourt.nic.in/
 3. Start app:  
    `python app.py`
    
-4. Open [http://localhost:5000](http://localhost:5000)
+4. Open [[http://localhost:5000](http://localhost:5000)](http://127.0.0.1:5000)
 
 ## CAPTCHA/Token Handling
 
@@ -42,18 +42,6 @@ If a CAPTCHA appears, the app pauses for manual intervention (screenshot saved a
 - Logs each query and raw HTML in SQLite.
 - Graceful error display for invalid input/site issues.
 
-## Optional
-
-- To run with Docker:  
-  *(Add a simple Dockerfile if needed.)*
-
-## Environment Variables
-
-- (e.g., Flask secret, if made configurable.)
-
-## Demo Video
-
-See demo.mp4 or YouTube link.
 
 ## Licence
 
